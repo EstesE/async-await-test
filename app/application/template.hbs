@@ -1,0 +1,13 @@
+<div style="margin-top: 15%; text-align: center;">
+    <div>
+        <i>model</i> consists of <i><b>posts</b>, </i><i><b>post</b></i> and <i><b>comments</b></i>.
+    </div>
+    <div><i><b>post.title</b></i>: {{model.post.title}}</div>
+    <div>
+        <h3><i>comments: {{model.comments.length}}</i></h3>
+        {{#each model.comments as |comment|}}
+            <div><i><b>comment.email</b>: </i>{{comment.email}}</div>
+        {{/each}}
+    </div>
+    {{outlet}}
+</div>

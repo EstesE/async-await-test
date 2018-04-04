@@ -1,0 +1,184 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "dolor quis odio consequat varius"
+        },
+        {
+            "id": 2,
+            "title": "amet nunc viverra dapibus"
+        },
+        {
+            "id": 3,
+            "title": "diam erat fermentum"
+        },
+        {
+            "id": 4,
+            "title": "aliquet maecenas leo odio"
+        },
+        {
+            "id": 5,
+            "title": "lectus in est"
+        },
+        {
+            "id": 6,
+            "title": "ultrices posuere cubilia curae"
+        }
+    ],
+    "comments": [
+        {
+            "postId": 1,
+            "id": 1,
+            "date": "2017-06-09",
+            "message": "rhoncus aliquet pulvinar sed nisl nunc rhoncus",
+            "email": "mrabat0@howstuffworks.com"
+        },
+        {
+            "postId": 1,
+            "id": 2,
+            "date": "2018-01-08",
+            "message": "est congue elementum in hac habitasse platea",
+            "email": "ischinetti1@unblog.fr"
+        },
+        {
+            "postId": 1,
+            "id": 3,
+            "date": "2017-11-22",
+            "message": "nibh in lectus pellentesque at nulla",
+            "email": "mtoffolini2@europa.eu"
+        },
+        {
+            "postId": 2,
+            "id": 1,
+            "date": "2017-08-29",
+            "message": "consequat metus sapien ut nunc",
+            "email": "rlocal0@telegraph.co.uk"
+        },
+        {
+            "postId": 2,
+            "id": 2,
+            "date": "2017-09-15",
+            "message": "quis justo maecenas rhoncus aliquam lacus",
+            "email": "kwison1@wisc.edu"
+        },
+        {
+            "postId": 3,
+            "id": 1,
+            "date": "2017-09-09",
+            "message": "vel est donec odio justo sollicitudin ut suscipit",
+            "email": "lgawthorp0@reference.com"
+        },
+        {
+            "postId": 3,
+            "id": 2,
+            "date": "2017-10-04",
+            "message": "nibh quisque id justo sit amet sapien dignissim",
+            "email": "bmosten1@loc.gov"
+        },
+        {
+            "postId": 3,
+            "id": 3,
+            "date": "2017-09-22",
+            "message": "sagittis sapien cum sociis natoque penatibus",
+            "email": "zmaher2@indiegogo.com"
+        },
+        {
+            "postId": 3,
+            "id": 4,
+            "date": "2018-02-01",
+            "message": "leo maecenas pulvinar lobortis est phasellus",
+            "email": "ppetri3@issuu.com"
+        },
+        {
+            "postId": 3,
+            "id": 5,
+            "date": "2017-10-08",
+            "message": "molestie nibh in lectus pellentesque at nulla",
+            "email": "dcharlick4@cdbaby.com"
+        },
+        {
+            "postId": 4,
+            "id": 1,
+            "date": "2017-09-21",
+            "message": "integer pede justo lacinia eget tincidunt",
+            "email": "aribbens0@census.gov"
+        },
+        {
+            "postId": 4,
+            "id": 2,
+            "date": "2017-05-16",
+            "message": "nisl nunc rhoncus dui vel sem",
+            "email": "dblei1@quantcast.com"
+        },
+        {
+            "postId": 4,
+            "id": 3,
+            "date": "2017-11-05",
+            "message": "sem duis aliquam convallis nunc proin",
+            "email": "bcaws2@arizona.edu"
+        },
+        {
+            "postId": 4,
+            "id": 4,
+            "date": "2018-02-03",
+            "message": "quisque ut erat curabitur gravida nisi at nibh",
+            "email": "aridings3@sakura.ne.jp"
+        },
+        {
+            "postId": 4,
+            "id": 5,
+            "date": "2018-02-12",
+            "message": "phasellus id sapien in sapien iaculis",
+            "email": "kmcveighty4@bizjournals.com"
+        },
+        {
+            "postId": 5,
+            "id": 1,
+            "date": "2017-08-05",
+            "message": "leo pellentesque ultrices mattis odio donec vitae nisi",
+            "email": "ebess0@hp.com"
+        },
+        {
+            "postId": 5,
+            "id": 2,
+            "date": "2018-01-19",
+            "message": "id turpis integer aliquet massa id lobortis",
+            "email": "jtibalt1@friendfeed.com"
+        },
+        {
+            "postId": 6,
+            "id": 1,
+            "date": "2018-04-01",
+            "message": "pharetra magna vestibulum aliquet ultrices erat",
+            "email": "mconibeer0@delicious.com"
+        },
+        {
+            "postId": 6,
+            "id": 2,
+            "date": "2017-10-02",
+            "message": "augue quam sollicitudin vitae consectetuer eget rutrum at",
+            "email": "rkrause1@smugmug.com"
+        },
+        {
+            "postId": 6,
+            "id": 3,
+            "date": "2018-02-01",
+            "message": "orci luctus et ultrices posuere cubilia curae donec",
+            "email": "ccalrow2@weebly.com"
+        },
+        {
+            "postId": 6,
+            "id": 4,
+            "date": "2017-09-06",
+            "message": "duis ac nibh fusce lacus purus aliquet",
+            "email": "lphilippsohn3@wp.com"
+        },
+        {
+            "postId": 6,
+            "id": 5,
+            "date": "2017-09-12",
+            "message": "pede justo lacinia eget tincidunt",
+            "email": "tcaughte4@soundcloud.com"
+        }
+    ]
+}

@@ -18,6 +18,14 @@ You will need the following things properly installed on your computer.
 * `cd async-await`
 * `npm install`
 
+## Running Backend API
+
+Install `json-server`
+* `npm install -g json-server`
+
+Run API backend
+* `json-server --watch db.json`
+
 ## Running / Development
 
 * `ember serve`
